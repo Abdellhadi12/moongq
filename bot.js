@@ -86,8 +86,3 @@ if (message.content === '!spam') {
 
 client.login(process.env.TOKEN);
 client2.login(process.env.TOKEN2);
-client2.login(process.env.TOKEN3);
-client2.login(process.env.TOKEN4);
-client2.login(process.env.TOKEN5);
-client2.login(process.env.TOKEN6);
-client2.login(process.env.TOKEN7);
